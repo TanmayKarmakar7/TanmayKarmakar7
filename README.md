@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Tanmay Karmakar
 
-## 🚀 Full Stack Web Developer
+## 🚀 MERN Stack Developer
 
-I'm a passionate developer specializing in building scalable and efficient web applications. I love exploring new technologies, solving real-world problems, and continuously expanding my skills.
-
----
+- 💻 MERN Stack Developer, passionate about web development and coding.
+- 🎓 Pursuing a Bachelor's in Computer Applications (BCA) at SKBU University.
+- 🌱 Currently learning advanced JavaScript and React.
+- 👨‍💻 Web Developer with experience in building responsive and user-friendly websites.
 
 ### 🛠️ Tech Stack
 
@@ -26,14 +27,6 @@ I'm a passionate developer specializing in building scalable and efficient web a
 
 ---
 
-### 🌟 Projects
-
-- **SmartCure**  
-  *A cutting-edge project focused on leveraging technology for smarter healthcare solutions.*  
-  <sub>[Add a one-line description about what SmartCure does, or a link/demo if available]</sub>
-
----
-
 ### 🏆 Certifications
 
 - DSA Using C
@@ -41,7 +34,6 @@ I'm a passionate developer specializing in building scalable and efficient web a
 - FrontEnd Development – HTML
 - FrontEnd Development – CSS
 - JavaScript Specialization
-- ...and more
 
 ---
 
@@ -59,13 +51,3 @@ I'm a passionate developer specializing in building scalable and efficient web a
 - Watching movies
 - Playing cricket
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayKarmakar7&show_icons=true&theme=radical" alt="Tanmay's GitHub Stats" />
-</p>
-
-<!---
-TanmayKarmakar7/TanmayKarmakar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
