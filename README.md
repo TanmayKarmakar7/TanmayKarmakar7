@@ -4,7 +4,7 @@
 
 - 💻 MERN Stack Developer, passionate about web development and coding.
 - 🎓 Pursuing a Bachelor's in Computer Applications (BCA) at SKBU University.
-- 🌱 Currently learning advanced JavaScript and React.
+- 🌱 Currently learning Node, Express & Mongo DB.
 - 👨‍💻 Web Developer with experience in building responsive and user-friendly websites.
 
 ### 🛠️ Tech Stack
