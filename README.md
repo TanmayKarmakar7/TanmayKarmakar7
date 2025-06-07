@@ -39,9 +39,9 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/tanmay-karmakar-a53b00239/)
-- [Website](https://thetanmay.in/)
-- **Email:** tanmaykarmakar746@gmail.com
+- [![image](https://github.com/user-attachments/assets/4aa4815a-d2ed-43fa-aa05-90684d89dcdf)](https://www.linkedin.com/in/tanmay-karmakar-a53b00239/)
+- [![image](https://github.com/user-attachments/assets/7370a02a-ae28-43a9-89a9-8a75881b5103)](https://thetanmay.in/)
+- [![image](https://github.com/user-attachments/assets/c2ce9cbb-6428-4e32-b17e-0560bb838cc6)] : tanmaykarmakar746@gmail.com
 
 ---
 
