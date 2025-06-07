@@ -39,17 +39,12 @@
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/tanmay-karmakar-a53b00239/">
-  <img src="https://github.com/user-attachments/assets/4aa4815a-d2ed-43fa-aa05-90684d89dcdf" alt="LinkedIn" height="20"/>
-</a>&nbsp;&nbsp;
+### 📫 Connect with Me
 
-<a href="https://thetanmay.in/">
-  <img src="https://github.com/user-attachments/assets/7370a02a-ae28-43a9-89a9-8a75881b5103" alt="Website" height="20"/>
-</a>&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-karmakar-a53b00239/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://thetanmay.in/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaykarmakar746@gmail.com)
 
-<a href="mailto:tanmaykarmakar746@gmail.com">
-  <img src="https://github.com/user-attachments/assets/c2ce9cbb-6428-4e32-b17e-0560bb838cc6" alt="Email" height="20"/>
-</a>
 
 
 
